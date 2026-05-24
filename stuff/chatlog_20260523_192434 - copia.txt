@@ -1,0 +1,10 @@
+SERVIDOR: Leon ha entrado al chat!
+SERVIDOR: Chris ha entrado al chat!
+SERVIDOR: Wesker ha entrado al chat!
+SERVIDOR: Jill ha entrado al chat!
+Jill: Hola
+Leon: Hola
+Chris: Hola
+SERVIDOR: Wesker ha abandonado el chat!
+SERVIDOR: Wesker ha entrado al chat!
+Wesker: Joke
